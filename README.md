@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning full stack web devlopment
 - 💞️ I’m looking to collaborate on frontend devlopment project
-- 📫 You can reach reach me at my linkedin profile http://www.linkedin.com/in/mirtunjayku
+- 📫 You can reach reach me at my linkedin profile
+-  http://www.linkedin.com/in/mirtunjayku
 
 <!---
 Mirtunjay5580/Mirtunjay5580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
